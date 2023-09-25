@@ -6,11 +6,6 @@
 
 Liberica Plant Aerial Detection (LIPAD) is a digital Geographic Information System (GIS) platform that uses deep learning algorithms and data collected from unmanned aerial vehicles (UAVs) or via mobile phones to provide accurate and real-time information on coffee leaf rust incidence and severity. It enables early detection and rapid response to outbreaks, allowing farmers to make informed decisions and protect their crops. The platform's user-friendly interface facilitates the visualization and exploration of coffee leaf rust data, helping identify hotspots and track the disease's spread. LIPAD revolutionizes the coffee industry by optimizing operations, reducing labor and cost, and improving the sustainability and profitability of coffee farming.
 
-## Demo
-
-![vid](Resources/LIPAD%20Demo%20Vid%20Short.mp4)
-
-
 ## Features
 - Incorporates a deep learning model specifically YOLOv3 for real-time coffee leaf rust detection, leveraging AI for precise analysis.
 - Enables data capture through Unmanned Aerial Vehicles (UAVs) or GPS-enabled smartphones, providing multiple data source options.
@@ -19,6 +14,7 @@ Liberica Plant Aerial Detection (LIPAD) is a digital Geographic Information Syst
 - Private users benefit from custom dashboards, enhancing their experience with personalized data and features.
 - The plantation page provides an interactive platform for image uploads and data processing, streamlining the user experience.
 
+To see a demonstration on how to use the application here is a ![demo video](Resources/LIPAD%20Demo%20Vid%20Short.mp4) and here is the [user manul](Resources/LIPAD%20USER%20MANUAL.pdf).
 ### Requirements and Files
 To run the application, you'll need the following requirements and files:
 
