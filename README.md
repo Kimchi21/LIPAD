@@ -14,7 +14,7 @@ Liberica Plant Aerial Detection (LIPAD) is a digital Geographic Information Syst
 - Private users benefit from custom dashboards, enhancing their experience with personalized data and features.
 - The plantation page provides an interactive platform for image uploads and data processing, streamlining the user experience.
 
-To see a demonstration on how to use the application here is a ![demo video](Resources/LIPAD%20Demo%20Vid%20Short.mp4) and here is the [user manul](Resources/LIPAD%20USER%20MANUAL.pdf).
+To see a demonstration on how to use the application here is a ![demo video](Resources/LIPAD%20Demo%20Vid%20Short.mp4) and here is the [user manual](Resources/LIPAD%20USER%20MANUAL.pdf).
 ### Requirements and Files
 To run the application, you'll need the following requirements and files:
 
